@@ -16,9 +16,8 @@
 
 **Página Personal**:
 Una página web personal para mostrar mi perfil, educación, proyectos y contacto.
-Tecnologías utilizadas: HTML, CSS, JavaScript, Node.js.
 
-Tecnologías utilizadas: HTML, CSS, JavaScript, Node.js
+Tecnologías utilizadas: HTML, CSS, JavaScript, Node.js, Nodemailer.
 
 Repositorio: [Github](https://github.com/augustogalvanb/portfolio)
 
