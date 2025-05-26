@@ -22,12 +22,16 @@ Tecnologías utilizadas: HTML, CSS, JavaScript, Node.js
 
 Repositorio: [Github](https://github.com/augustogalvanb/portfolio)
 
+<hr>
+
 **Sistema de gestión de clientes**:
 Aplicación web full-stack diseñada para registrar, buscar y gestionar clientes, con un sistema de notificaciones para vencimientos de suscripciones.
 
 Tecnologías utilizadas: JavaScript, HTML, Bootstrap, Axios, Webpack, FontAwesome, localStorage, Node.js, Express, MongoDB, Mongoose, CORS
 
 Repositorio: [Github](https://github.com/augustogalvanb/Sistema-de-Gestion-de-Clientes)
+
+<hr>
 
 **Aplicación de turnos**:
 Aplicación web full-stack diseñada para gestionar turnos. Permite a los usuarios registrarse, iniciar sesión, subir fotos de perfil, agendar y cancelar turnos, con confirmaciones automáticas por correo electrónico.
@@ -36,12 +40,16 @@ Tecnologías utilizadas: Node.js, Express, TypeORM, Cloudinary, Nodemailer, Post
 
 Repositorio: [Github](https://github.com/augustogalvanb/Aplicacion-de-turnos)
 
+<hr>
+
 **Ecommerce Backend API**:
 Backend de una aplicación de ecommerce. Permite la gestión de usuarios, productos, categorías, órdenes de compra y carga de imágenes, con autenticación basada en JWT y roles de acceso (admin y user). Incluye documentación interactiva mediante Swagger/OpenAPI. El proyecto se integrará con un frontend en el futuro.
 
 Tecnologías utilizadas: NestJS, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, TypeORM, Node.js
 
 Repositorio: [Github](https://github.com/augustogalvanb/Ecommerce)
+
+<hr>
 
 **Proyecto Final Henry - Sistema de Gestión y Ventas Interno**:
 Aplicación web full-stack de Sistema de Gestión y Ventas interno. para que un usuario "Administrador" tenga un control total sobre sus tiendas, inventario, stock y ventas. Proyecto grupal realizado para aprobar el bootcamp de Henry.
