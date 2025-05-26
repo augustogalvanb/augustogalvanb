@@ -35,7 +35,7 @@ Repositorio: [Github](https://github.com/augustogalvanb/Sistema-de-Gestion-de-Cl
 **Aplicación de turnos**:
 Aplicación web full-stack diseñada para gestionar turnos. Permite a los usuarios registrarse, iniciar sesión, subir fotos de perfil, agendar y cancelar turnos, con confirmaciones automáticas por correo electrónico.
 
-Tecnologías utilizadas: Node.js, Express, TypeORM, Cloudinary, Nodemailer, PostgreSQL, React, React Router, React Icons, CSS Modules, js-cookie.
+Tecnologías utilizadas: Node.js, Typescript, Express, TypeORM, Cloudinary, Nodemailer, PostgreSQL, React, React Router, React Icons, CSS Modules, js-cookie.
 
 Repositorio: [Github](https://github.com/augustogalvanb/Aplicacion-de-turnos)
 
@@ -44,7 +44,7 @@ Repositorio: [Github](https://github.com/augustogalvanb/Aplicacion-de-turnos)
 **Ecommerce Backend API**:
 Backend de una aplicación de ecommerce. Permite la gestión de usuarios, productos, categorías, órdenes de compra y carga de imágenes, con autenticación basada en JWT y roles de acceso (admin y user). Incluye documentación interactiva mediante Swagger/OpenAPI. El proyecto se integrará con un frontend en el futuro.
 
-Tecnologías utilizadas: NestJS, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, TypeORM, Node.js
+Tecnologías utilizadas: NestJS, Typescript, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, TypeORM, Node.js
 
 Repositorio: [Github](https://github.com/augustogalvanb/Ecommerce)
 
