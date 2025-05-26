@@ -58,6 +58,8 @@ Tecnologías utilizadas: NestJS, TypeScript, PostgreSQL, NextJS, Nodemailer, JWT
 
 Repositorio: [Github](https://github.com/augustogalvanb/Proyecto-Final-Henry---Sistema-de-Gestion-y-Ventas)
 
+<hr>
+
 <br>
 
 <p>Si necesitas saber algo, no dudes en escribirme!</p>
