@@ -4,13 +4,16 @@
 <h2>Sobre mí</h2>
 <p>A lo largo de mi formación académica y mis proyectos personales y colaborativos, he adquirido habilidades sólidas tanto en tecnologías Frontend como Backend. Así como en frameworks y librerías.</p>
 
-- **Lenguajes**: JavaScript, TypeScript
-- **Backend**: Node.js, NestJS
-- **Frontend**: React, Bootstrap
+- **Lenguajes**: JavaScript, TypeScript, HTML, CSS
+- **Backend**: Node.js, NestJS, Express
+- **Frontend**: React, Bootstrap, CSS modules
 - **Bases de datos**: PostgreSQL, MongoDB
-- **ORM/ODM**: TypeORM, Mongoose
+- **ORM/ODM**: TypeORM, Prisma, Mongoose
+- **Autenticación**: JWT, OAuth, Bcrypt
+- **Pasarelas de pago**: Stripe
+- **DevOps**: Docker, Render, Vercel
 - **Testing**: Jest, Jasmine
-- **Otros**: Thunder Client, Insomnia, Git, Docker
+- **Servicios**: Thunder Client, Insomnia, Git, Swagger, Nodemailer, Cloudinary, Trello, Jira
 
 <h2>Proyectos que encontrarás aquí</h2>
 
