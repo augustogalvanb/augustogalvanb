@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋</h1>
-<h3 align="center">Fullstack Web Developer de Argentina</h3>
+<h3 align="center">Backend Web Developer de Argentina</h3>
 
 <h2>Sobre mí</h2>
-<p>A lo largo de mi formación académica y mis proyectos personales y colaborativos, he adquirido habilidades sólidas tanto en tecnologías Frontend como Backend. Así como en frameworks y librerías.</p>
+<p>A lo largo de mi formación académica, mis proyectos personales y colaborativos, he adquirido habilidades sólidas en tecnologías Backend y conocimientos en React para colaborar en entornos Fullstack.</p>
 
 - **Lenguajes**: JavaScript, TypeScript, HTML, CSS
 - **Backend**: Node.js, NestJS, Express
