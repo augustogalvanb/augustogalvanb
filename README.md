@@ -7,7 +7,7 @@
 - **Lenguajes**: JavaScript, TypeScript, HTML, CSS
 - **Backend**: Node.js, NestJS, Express
 - **Frontend**: React, Bootstrap, CSS modules
-- **Bases de datos**: PostgreSQL, MongoDB
+- **Bases de datos**: PostgreSQL, MySQL, MongoDB
 - **ORM/ODM**: TypeORM, Prisma, Mongoose
 - **Autenticación**: JWT, OAuth, Bcrypt
 - **Pasarelas de pago**: Stripe
