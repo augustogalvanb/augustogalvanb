@@ -10,12 +10,30 @@
 - **Bases de datos**: PostgreSQL, MySQL, MongoDB
 - **ORM/ODM**: TypeORM, Prisma, Mongoose
 - **Autenticación**: JWT, OAuth, Bcrypt
-- **Pasarelas de pago**: Stripe
+- **Pasarelas de pago**: Stripe, Mercado Pago
 - **DevOps**: Docker, Render, Vercel
 - **Testing**: Jest, Jasmine
 - **Servicios**: Thunder Client, Insomnia, Git, Swagger, Nodemailer, Cloudinary, Trello, Jira
 
 <h2>Proyectos que encontrarás aquí</h2>
+
+**Ecommerce Fullstack**:
+E-commerce completo y funcional con panel de administración, procesamiento de pagos mediante Mercado Pago, envío automático de facturas por email y responsive.
+
+Tecnologías utilizadas: NestJS, Typescript, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, Prisma, Node.js
+
+Repositorio: [Github](https://github.com/augustogalvanb/ecommerce-fullstack)
+
+<hr>
+
+**Aplicación de turnos**:
+Aplicación web full-stack diseñada para gestionar turnos. Permite a los usuarios registrarse, iniciar sesión, subir fotos de perfil, agendar y cancelar turnos, con confirmaciones automáticas por correo electrónico.
+
+Tecnologías utilizadas: Node.js, Typescript, Express, TypeORM, Cloudinary, Nodemailer, PostgreSQL, React, React Router, React Icons, CSS Modules, js-cookie.
+
+Repositorio: [Github](https://github.com/augustogalvanb/Aplicacion-de-turnos)
+
+<hr>
 
 **Página Personal**:
 Una página web personal para mostrar mi perfil, educación, proyectos y contacto.
@@ -32,24 +50,6 @@ Aplicación web full-stack diseñada para registrar, buscar y gestionar clientes
 Tecnologías utilizadas: JavaScript, HTML, Bootstrap, Axios, Webpack, FontAwesome, localStorage, Node.js, Express, MongoDB, Mongoose, CORS
 
 Repositorio: [Github](https://github.com/augustogalvanb/Sistema-de-Gestion-de-Clientes)
-
-<hr>
-
-**Aplicación de turnos**:
-Aplicación web full-stack diseñada para gestionar turnos. Permite a los usuarios registrarse, iniciar sesión, subir fotos de perfil, agendar y cancelar turnos, con confirmaciones automáticas por correo electrónico.
-
-Tecnologías utilizadas: Node.js, Typescript, Express, TypeORM, Cloudinary, Nodemailer, PostgreSQL, React, React Router, React Icons, CSS Modules, js-cookie.
-
-Repositorio: [Github](https://github.com/augustogalvanb/Aplicacion-de-turnos)
-
-<hr>
-
-**Ecommerce Backend API**:
-Backend de una aplicación de ecommerce. Permite la gestión de usuarios, productos, categorías, órdenes de compra y carga de imágenes, con autenticación basada en JWT y roles de acceso (admin y user). Incluye documentación interactiva mediante Swagger/OpenAPI. El proyecto se integrará con un frontend en el futuro.
-
-Tecnologías utilizadas: NestJS, Typescript, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, TypeORM, Node.js
-
-Repositorio: [Github](https://github.com/augustogalvanb/Ecommerce)
 
 <hr>
 
