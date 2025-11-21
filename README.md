@@ -31,6 +31,22 @@ Repositorio: [Github](https://github.com/augustogalvanb/MediConnect)
 
 <hr>
 
+**Landing Page EcoVolt**:
+Landing Page de un producto promocional de una empresa ficticia de energía llamada EcoVolt Energy. Los datos ingresados en el formulario se almacenan en una hoja de cálculo de Google Sheets. Incluye un botón de WhatsApp que redirige a la aplicación para contactar directamente a la empresa.
+
+Tecnologías utilizadas: Javascript, HTML, CSS, Google Sheets
+Repositorio: [Github](https://github.com/augustogalvanb/landing-page-ecovolt)
+
+<hr>
+
+**Web Institucional EcoVolt**:
+Página Web Institucional de la empresa de energía ficticia EcoVolt Energy. En la sección principal (hero) se incluye un video de fondo con turbinas eólicas. El sitio cuenta con páginas como Servicios, Nosotros y Contacto. El formulario utiliza EmailJS para el envío de mensajes.
+
+Tecnologías utilizadas: Javascript, HTML, CSS, Google Sheets
+Repositorio: [Github](https://github.com/augustogalvanb/web-institucional-empresa-ecovolt)
+
+<hr>
+
 **Proyecto Final Henry - Sistema de Gestión y Ventas Interno**:
 Aplicación web full-stack de Sistema de Gestión y Ventas interno. para que un usuario "Administrador" tenga un control total sobre sus tiendas, inventario, stock y ventas. Proyecto grupal realizado para aprobar el bootcamp de Henry.
 
