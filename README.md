@@ -42,7 +42,7 @@ Repositorio: [Github](https://github.com/augustogalvanb/landing-page-ecovolt)
 **Web Institucional EcoVolt**:
 Página Web Institucional de la empresa de energía ficticia EcoVolt Energy. En la sección principal (hero) se incluye un video de fondo con turbinas eólicas. El sitio cuenta con páginas como Servicios, Nosotros y Contacto. El formulario utiliza EmailJS para el envío de mensajes.
 
-Tecnologías utilizadas: Javascript, HTML, CSS, Google Sheets
+Tecnologías utilizadas: React, styled-components, EmailJS, react-router-dom
 Repositorio: [Github](https://github.com/augustogalvanb/web-institucional-empresa-ecovolt)
 
 <hr>
