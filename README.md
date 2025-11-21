@@ -4,52 +4,30 @@
 <h2>Sobre mí</h2>
 <p>A lo largo de mi formación académica, mis proyectos personales y colaborativos, he adquirido habilidades sólidas en tecnologías Backend y conocimientos en React para colaborar en entornos Fullstack.</p>
 
-- **Lenguajes**: JavaScript, TypeScript, HTML, CSS
-- **Backend**: Node.js, NestJS, Express
-- **Frontend**: React, Bootstrap, CSS modules
-- **Bases de datos**: PostgreSQL, MySQL, MongoDB
-- **ORM/ODM**: TypeORM, Prisma, Mongoose
-- **Autenticación**: JWT, OAuth, Bcrypt
-- **Pasarelas de pago**: Stripe, Mercado Pago
-- **DevOps**: Docker, Render, Vercel
-- **Testing**: Jest, Jasmine
-- **Servicios**: Thunder Client, Insomnia, Git, Swagger, Nodemailer, Cloudinary, Trello, Jira
+- **Backend**: Node.js, Express, NestJS, JWT, Bcrypt
+- **Frontend**: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, CSS Modules, styled-components
+- **Bases de datos**: PostgreSQL, MongoDB, MySQL, TypeORM, Prisma, Mongoose
+- **Testing**: Jest, Supertest, Jasmine
+- **Control de Versiones y Herramientas**: Git, GitHub, Insomnia, Docker, VS Code
+- **DevOps y Servicios**: Vercel, Render, Cloudinary, Nodemailer, Stripe, Mercado Pago, Swagger, Trello, Jira
 
 <h2>Proyectos que encontrarás aquí</h2>
 
 **Ecommerce Fullstack**:
 E-commerce completo y funcional con panel de administración, procesamiento de pagos mediante Mercado Pago, envío automático de facturas por email y responsive.
 
-Tecnologías utilizadas: NestJS, Typescript, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, Prisma, Node.js
+Tecnologías utilizadas: NestJS, Typescript, PostgreSQL, JWT, Bcrypt, Cloudinary, Swagger/OpenAPI, Prisma, Node.js, Mercado Pago
 
 Repositorio: [Github](https://github.com/augustogalvanb/ecommerce-fullstack)
 
 <hr>
 
-**Aplicación de turnos**:
-Aplicación web full-stack diseñada para gestionar turnos. Permite a los usuarios registrarse, iniciar sesión, subir fotos de perfil, agendar y cancelar turnos, con confirmaciones automáticas por correo electrónico.
+**Gestor de Consultas Médicas**:
+Aplicación web fullstack. Permite registrar Doctores, Pacientes y Administradores, agendar y cancelar turnos. Médicos pueden programar su agenda y crear registros médicos de pacientes. Posee Chat en vivo para consultas generales.
 
-Tecnologías utilizadas: Node.js, Typescript, Express, TypeORM, Cloudinary, Nodemailer, PostgreSQL, React, React Router, React Icons, CSS Modules, js-cookie.
+Tecnologías utilizadas: Node.js, NestJS, Prisma, Cloudinary, Nodemailer, MongoDB, Next.js, SendGrid, Websockets, Tailwind
 
-Repositorio: [Github](https://github.com/augustogalvanb/Aplicacion-de-turnos)
-
-<hr>
-
-**Página Personal**:
-Una página web personal para mostrar mi perfil, educación, proyectos y contacto.
-
-Tecnologías utilizadas: HTML, CSS, JavaScript, Node.js, Nodemailer.
-
-Repositorio: [Github](https://github.com/augustogalvanb/portfolio)
-
-<hr>
-
-**Sistema de gestión de clientes**:
-Aplicación web full-stack diseñada para registrar, buscar y gestionar clientes, con un sistema de notificaciones para vencimientos de suscripciones.
-
-Tecnologías utilizadas: JavaScript, HTML, Bootstrap, Axios, Webpack, FontAwesome, localStorage, Node.js, Express, MongoDB, Mongoose, CORS
-
-Repositorio: [Github](https://github.com/augustogalvanb/Sistema-de-Gestion-de-Clientes)
+Repositorio: [Github](https://github.com/augustogalvanb/MediConnect)
 
 <hr>
 
